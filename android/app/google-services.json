@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "561260560717",
+    "project_id": "flash-chat-ca9af",
+    "storage_bucket": "flash-chat-ca9af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561260560717:android:1c094caddfc57fad0a3704",
+        "android_client_info": {
+          "package_name": "com.pasara.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561260560717-22ha7qqnd09boa4p3qrrtksuj296idlc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdmZROy3emnuWXBul_Qi26BAs8oZZ2REc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561260560717-22ha7qqnd09boa4p3qrrtksuj296idlc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
